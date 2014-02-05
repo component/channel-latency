@@ -3,6 +3,8 @@
 
 Latency middleware for [channel](https://github.com/component/channel).
 
+Events emitted in one side of the channel are delayed by the specified amount of miliseconds before firing on the other side.
+
 Useful for simulating network latency locally.
 
 ```
