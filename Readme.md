@@ -1,4 +1,3 @@
-
 # channel-latency
 
 Latency middleware for [channel](https://github.com/component/channel).
@@ -7,7 +6,7 @@ Events emitted in one side of the channel are delayed by the specified amount of
 
 Useful for simulating network latency locally.
 
-```
+```javascript
 var channel = require('channel');
 var latency = require('channel-latency');
 var chan = channel();
