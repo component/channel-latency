@@ -1,0 +1,21 @@
+{
+  "name": "component-channel-latency",
+  "version": "0.0.1",
+  "description": "latency middleware for component-channel",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/component/channel-latency.git"
+  },
+  "keywords": [
+    "latency",
+    "middleware",
+    "channel"
+  ],
+  "author": "Marco Aurelio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/component/channel-latency/issues"
+  },
+  "homepage": "https://github.com/component/channel-latency"
+}
